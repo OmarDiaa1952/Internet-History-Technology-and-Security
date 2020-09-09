@@ -1,0 +1,63 @@
+1. Common Link Layer technologies are… (Choose all that apply)
+>>
+WiFi
+Optical
+Satellite
+Ethernet
+Cable Modem
+DSL
+
+2. When looking at addresses form most general to most specific, we read IP addresses ________ and we read domain addresses _________. (fill in the blanks)
+>>
+left to right, right to left
+
+3. When do wireless devices receive their serial numbers (i.e. MAC or Ethernet addresses)?
+>>
+When they are manufactured
+
+4. What does the time taken for a packet to reach a destination usually reflect?
+>>
+The speed of light and the distance the packet has to travel
+
+5. How do wireless devices operating on a shared network determine when to send information so as not to incur chaos?
+>>
+They listen to the sound on the current network, and send information when it is quiet.
+
+6. What is the concern when deciding which device sends information next on Ethernet?
+>>
+Ensuring fairness – that one type of device, data, or user is not preferred over others.
+
+7. What is the maximum possible number of hops a packet can take to try to reach their destination (the so-called “Time To Live” functionality of packets)?
+>>
+255
+
+8. What are Router Tables?
+>>
+Dynamic lists of directions for where and how to direct packets
+
+9. What are the layers, and in what order do we structure them?
+>>
+Application Layer
+Transport Layer
+Internetwork Layer
+Link Layer
+
+10. What is the Internet Protocol Layer responsible for?
+>>
+Getting a packet to a specific network address
+
+11. How is an IP address determined?
+>>
+Geographically
+
+12. The prefix of an IP address determines what?
+>>
+The network that it belongs to
+
+13. What is the Link Layer responsible for? (Choose all that apply)
+>>
+Deciding on the next link that a packet should be sent on once it is inside of a router
+
+14. Is it possible to track a packet’s journey across the network?
+>>
+Yes, using a technique called ‘traceroute’ which tracks the packets that are returned due to transmission failure.

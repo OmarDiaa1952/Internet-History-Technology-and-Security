@@ -1,0 +1,60 @@
+1. Which of the following is true of security?
+>>
+Perfect security is achievable and requires a trade-off with cost
+
+2. What is the difference between active and passive wiretapping?
+>>
+In passive wiretapping the network is snooped whereas in active wiretapping the network data is altered
+
+3. Integrity is preserved if
+>>
+The information you receive is from who you think it is and has not been modified since it was sent
+
+4.  Which of the following factors has the smallest effect on the strength of a cryptosystem?
+>>
+The data being transmitted
+
+5. What is one possible advantage of public-key cryptosystems over secret-key ones?
+>>
+Public-key cryptosystems do not have the problem of secure key distribution
+
+6.What does it mean if a cryptosystem is symmetric-key in nature?
+>>
+The key used for encryption is not the same as the key used for decryption
+
+7. The following question is encrypted using a Caesar Cipher with a shift of 13. You can use www.rot13.com to decrypt the question.
+Jub vf perqvgrq nf orvat bar bs gur vairagbef bs Rgurearg?
+>>
+Bob Metcalfe
+
+8. The following question is encrypted using a Caesar Cipher with a shift of 13. You can use www.rot13.com to decrypt the question and answers.
+Jung qbrf gur Gjvggre unfugnt #VUGF fgnaq sbe?
+>>
+Vagrearg Uvfgbel, Grpuabybtl, naq Frphevgl
+
+9. What is the SHA-1 hash of the string below as computed by http://www.dr-chuck.com/sha1.php
+The Transport Layer does retransmission
+>>
+1399edc7e55f7be8dbc7024bcb8830527722e179
+
+10. What does a cryptographic hash function do?
+>>
+It takes a block of data and returns a fixed-size bit string called the hash value
+
+11. What critical element does simple digest-based Message Signing as described in lecture depend on?
+>>
+The sharing of a secret transported securely ‘out of band’
+
+12. What is the problem with secret key distribution via the internet?
+>>
+The communication of the secret key is insecure
+
+13. You are going to send the message below using shared secret of IHTS. Use http://www.dr-chuck.com/sha1.php to compute your message digest using the technique from lecture. What will the first six characters of the digest/signature that you send along with the message?
+Be sure to drink more Ovaltine
+>>
+8b4258
+
+14. Select the valid signed message(s) from Annie if your shared secret is IHTS? Use http://www.dr-chuck.com/sha1.php to compute your message digests using the technique from lecture. Only the first 6 characters of the SHA1 message digest are shown below. (Choose all that apply)
+Bring me cookies51be4e
+>>
+Everything is all right7dd244

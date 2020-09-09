@@ -1,0 +1,62 @@
+Question 1
+What was the primary reason for the development of store and forward networks by the academic community?
+>>
+By breaking the communication into shorter leased lines, and stopping at many universities along the way, overall cost was minimized.
+
+Question 2
+What is the relationship between the number of hops on the store and forward network, and the time taken for a message to be delivered?
+>>
+More hops within the network usually result in a longer delivery time
+
+Question 3
+What were the primary motivations for the Department of Defense to develop the research network ARPANET?
+>>
+To improve computing equipment for military purposes, making it easier for people to access computers, and communicate more effectively across the military.
+
+Question 4
+What was the fundamental difference between the store and forward network of BITNET, and ARPANET?
+>>
+Packet switching
+
+Question 5
+In the shared network, the role of the router is:
+>>
+To quickly forward packets to the next router
+
+Question 6
+What are the advantages of packet switching?
+>>
+Many messages can be in-flight at the same time, preventing large messages from blocking small ones
+
+Question 7
+Why did the National Science Foundation decide to build a national shared network?
+>>
+It was very expensive to give each university its own supercomputer. A national shared network was more affordable.
+
+Question 8
+Larry Smarr was one of many instrumental players in creating the first national network. What do we learn from his interview?
+>>
+That high performance computing needs at universities and the Internet were deeply connected.
+
+Question 9
+Why did the University of Michigan not participate in the ARPANET research project?
+>>
+
+Michigan had its own state-wide network, consisting of 3 nodes
+
+Question 10
+In the late 1980s, how did the first average citizens get Internet access?
+>>
+First the 'academic-only' rules were quietly ignored and then later the 'academic-only' rules were removed completely
+
+Question 11
+What was the primary difference between the University of Michigan proposal to build the NSFNet, and the other proposals?
+>>
+The University of Michigan Proposal used partnerships to deliver $55Million of value for $15M of NSF funds awarded.
+
+
+
+
+
+
+

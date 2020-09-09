@@ -1,0 +1,51 @@
+1. Which of the following is false about the two keys used in public key encryption?
+>>
+If you have the public key it is easy to compute the private key
+
+2. When you are using secure http and sending data between your computer and your bank’s computer, where is the data encrypted and decrypted?
+>>
+Encrypted in your computer and decrypted in the bank’s computer
+
+3. In regards to security, what do we assume about the Internet?
+>>
+That neither the routers nor the links between the routers are secure
+
+4. This week we’ve updated our model of how we communicate information via the internet to add in a fifth mini-layer to the structure in order to protect the confidentiality of transmissions. What is the new list of layers and in what order do we list them?
+>>
+* Application
+* Secure Sockets
+* TCP
+* IP
+* Link
+
+5. What is packet sniffing?
+>>
+Computers watching packets being transmitted across the network in hopes of finding important or valuable data
+
+6.Which of the following is FALSE about using secure sockets (i.e. https) to send sensitive information like a credit card across the Internet?
+>>
+It is impossible to decrypt your data
+
+7.Which of the following is NOT a major threat to your data when using secure sockets?
+>>
+Someone may see your public key
+
+8. Which of the following is not an equivalent name to ‘digital certificate’?
+>>
+Private key certificate
+
+9. What is a digital certificate?
+>>
+An electronic document used to give a public key an identity
+
+10. What is a certificate authority?
+>>
+An entity that certifies the ownership of a public key by the named subject of the certificate
+
+11. Which of the following is NOT an indicator of the effectiveness of Verisign as a certificate authority?
+>>
+Verisign publishes its private keys on a little-known web site only available to key owners
+
+12. How does your computer typically know the public key of a certificate authority during secure communications?
+>>
+Manufacture setup

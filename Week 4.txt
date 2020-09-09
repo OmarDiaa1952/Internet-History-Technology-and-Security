@@ -1,0 +1,38 @@
+1. What institution agreed to be responsible for web standards in 1994?
+>>
+World-Wide-Web Consortium (W3C)
+
+2. Between 1990 and 2006 the number of servers connected to the web grew from what to what?
+>>
+1 server to 120 million servers
+
+3. What browser did Netscape ultimately turn into?
+>>
+Firefox
+
+4. How did the Mozilla foundation earn their money?
+>>
+They added a search bar to their browser, and Google paid for the traffic directed to them.
+
+5. What web technologies does Brendan Eich include as part of creating the capabilities we refer to as HTML5? (Choose all that apply)
+>>
+CSS
+Javascript
+
+6. Why did JavaScript never fail in the beginning, as most new programming languages do? (Choose all that apply)
+>>
+It was written to be malleable, allowing programmers to establish their own patterns and best practices.
+It was written by someone who had prior experience constructing a language, and knew what pitfalls to avoid in creating the initial product
+
+7. What was Mitchell Baker “fired” from Netscape for?
+>>
+For repeatedly giving priority to the needs of the open source community over the needs of the commercial version of Netscape.
+
+8. What was Tim Berners Lee’s goal with establishing web standards? (Choose all that apply)
+>>
+To prevent the proprietary Balkanization of the web
+To make sure that a single company could not determine the technical direction of the web
+
+9. Why did Jeff Bezos chose to start Amazon.com by selling books?
+>>
+Books are the category of items that have the most different products, making it impossible to have a brick and mortar store with the same level of inventory.

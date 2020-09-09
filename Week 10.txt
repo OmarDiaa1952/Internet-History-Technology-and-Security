@@ -1,0 +1,165 @@
+1. How did the top-secret computing technologies developed at Bletchley Park during World-War II impact computing technology after the war:
+>>
+The computer scientists used their knowledge of electronic computers to build the first generation of general purpose computers
+
+2. What did Alan Turing contribute to Computer Science?
+>>
+He founded the field of Artificial Intelligence
+
+3. What was the primary reason the Colossus computer was faster than the BOMBE computer?
+>>
+The Colossus computer used vacuum tubes instead or gears and relays
+banner
+
+4. Which of the following was the greatest weakness of store-and-forward networks like BITNET?
+>>
+If your message was behind a large message it would have to wait until the large message was completed before it was sent.
+
+5. Which of the following is most like a “packet” on the Internet?
+>>
+A postcard
+
+6. What was the original “stated” intention of the National Science Foundation Network (NSFNet)?
+>>
+To connect scientists to supercomputers
+
+7. Given the original five-year and 15 million dollar budget of the National Science Foundation Network (NSFNet), what was the expected speed of the national NSFNet backbone?
+>>
+56 thousand bits per second
+
+8. Which of the following is the best explanation as to why the web was invented at CERN?
+>>
+Well-funded smart people in a culture that was open and fun
+
+9. Which of the following is something that Robert Cailliau and Tim Berners-Lee did not do?
+>>
+Invented the first object-oriented language (WWW++)
+
+10. Where was the first web server in America in production on December 12, 1991?
+>>
+Stanford Linear Accelerator (SLAC)
+
+11. What protocol was commonly used during 1990-1993 to organize and find information on the Internet that did not use the world-wide-web protocols?
+>>
+Gopher
+
+12. Which of the following products could be thought of as the “early ancestor of the Mozilla Firefox browser”?
+>>
+NCSA Mosaic
+
+13. Where was JavaScript developed at?
+>>
+Netscape
+
+14. What is the purpose of the World-Wide-Web Consortium?
+>>
+Define standards for the web and avoid proprietary balkanization of the web
+
+15. Why was the first product sold by Amazon books?
+>>
+Because there are over 3 million books in print
+
+16. Which of the following is most similar to an Internet router?
+>>
+A train station
+
+17. About how many separate physical connections (i.e. hops) will a packet cross on the Internet as it goes from University of Michigan to Stanford University?
+>>
+15
+
+18. What is the value of a layered network model?
+>>
+It allows a complex design problem to be broken into smaller manageable parts
+
+19. What is the IETF?
+>>
+It is a coordinating body where the standards that define the inner workings of the Internet are developed and published
+
+20. Which is the lowest layer in the TCP/IP network model?
+>>
+Link
+
+21. Which of the following is a Link Layer address?
+>>
+00:1f:5b:81:62:e7
+
+22. Which of the following is *not* an attribute of the Internet (IP) Layer?
+>>
+It is designed to recover lost packets
+
+23. What is the purpose of the TTL value in an IP packet?
+>>
+It ensures that a packet does not get stuck in an infinite loop in the Internet
+
+24. Which of the following is a domain name?
+>>
+www.coursera.org
+
+25. What problem did Van Jacobson solve in TCP?
+>>
+He invented the slow-start algorithm to keep systems from overloading a slow link
+banner
+
+26. When we talk of the protocols that move data over the Internet, we talk of TCP/IP. Which of the following is FALSE about TCP/IP?
+>>
+IP makes use of TCP as its underlying transport mechanism
+
+27. Secure TCP (TLS) is between which two layers?
+>>
+Application and Transport
+Symantec CA
+
+28. When you are using secure http and sending data between your computer and your bank’s computer, where is the data encrypted and decrypted?
+>>
+Encrypted in your computer and decrypted in the bank’s computer
+
+29. Which of the following is a TCP port (such as port 80 for HTTP) most like?
+>>
+A telephone extension
+
+30. Which of the following commands is part of the Hypertext Transport Protocol (HTTP)?
+>>
+GET
+Find Enroll Learnbanner
+
+31. What is the problem with secret key distribution via the internet?
+>>
+We cannot all physically visit every web site and physically pick up a key book to work securely with that site
+
+32. What does a cryptographic hash function do?
+>>
+It takes a block of data and computes a fixed-size bit string called the hash value
+
+33. Which of the following is credited as one of the inventors of Public Key Cryptograhy in the 1970’s
+>>
+Whitfield Diffie
+
+34. Which historical figure is credited with encrypting military messages using a simple “shifted alphabet”?
+>>
+Caesar
+
+35. Which of the following are the steps to sign and send a message to insure that the message came from the sender and was not modified in transit?
+>>
+Append the shared secret to the message, compute the cryptographic hash of the message + secret, send the message + cryptographic hash across the internet
+
+36. Which of the following statements is false
+>>
+Public key encryption cannot be broken
+Testive
+
+37. What is the mathematical underpinnings of public key encryption?
+>>
+Prime numbers
+
+38. Considering the four-layer TCP/IP model, which two layers does Secure Sockets Layer (SSL) fit between?
+>>
+Application and TCP
+
+39. If you are sending credit card information from a coffee shop WiFi to an Internet web site and later you find your credit card information has been stolen, which is the most likely scenario as to how your information was stolen?
+>>
+You did not use secure HTTP (https) at a coffee shop with an open WiFi
+Symantec Corp.
+
+40. Which of the following would be major a warning sign that indicates lax security practices when dealing with a site where you have an ID and Pasword?
+>>
+They can send you a mail message with the password you previously used to log in if you forget it

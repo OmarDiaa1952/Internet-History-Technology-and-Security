@@ -1,0 +1,53 @@
+1. What does the Application Layer expect from the Transport Layer?
+>>
+A reliable pipe that delivers data from another application across the Internet
+
+2. If you were “hacking” the Hypertext Transport Protocol using the ‘telnet’ command, what command would you send to the web server once you are connected to retrieve a document?
+>>
+GET
+
+3. Which of the following are examples of applications in the application layer?
+>>
+Internet Explorer
+Chrome web browser
+Firefox
+Instant Messaging Client
+Microsoft Outlook
+Apple Mail
+
+4. When is the Internet 100% up and working?
+>>
+It never is. It is constantly having pieces connect, fail, disconnect, reboot, etc.
+
+5. Last time! What are the layers of the internet, and the order in which we structure them?
+>>
+Application
+Transport
+IP
+Link
+
+6. What does the browser do when you click a Hypertext Link from your current web page to another web page?
+>>
+It does a Request-Response Cycle
+
+7. What does port 23 do? (Check for common ports)
+>>
+Telnet (Login)
+
+8. What does port 80 do?
+>>
+HTTP
+
+9. RFCs are: (Check all that apply)
+>>
+Requests For Comment
+Issued by the Internet Engineering Task Force (IETF)
+The standards defining protocols on the Internet
+
+10. Which of the following is most like a TCP/IP port number:
+>>
+Telephone extension
+
+11. What is a protocol?
+>>
+A set of rules that govern how different components of the Internet interact with each other

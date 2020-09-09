@@ -1,0 +1,79 @@
+1. What was a common goal that the various people who built the core Internet technologies we’ve heard from were trying to achieve? (Choose all that apply)
+>>
+Collaboratively creating, editing, and managing documentation and other information
+Improving access to special/unique technology to advance research
+Improving communication between people all across the world
+
+2. What did Robert Caillau see as a major strength of his web editor and browser as opposed to Gopher and ultimately Mosaic? (Choose all that apply)
+>>
+It opened each element in a new window
+It handled links as connections as opposed to ‘ugly’ URLs
+It could both edit and view all documents
+
+3. What does HTTP stand for?
+>>
+Hyper Text Transfer Protocol
+
+4. In 1994-1995, Microsoft saw the Internet as such an important piece of the future that they devoted how many people to developing support for the Internet and Web into Windows-95?
+>>
+2000
+
+5. What best describes Robert Caillau’s vision for the World Wide Web?
+>>
+An interface that would allow academics to collaboratively create, edit, and view documentation, seeing each different type of material (maps, images, text, etc.) in its own particular individual window.
+
+6. Which of the following best describe how people used the web server developed by Paul Kunz? (Choose all that apply)
+>>
+As an early digital library
+As an early search engine
+
+7.What pieces of technology had to be created for the web to be successful in 1994? (Choose all that apply)
+>>
+A language to mark up web documents so they could be displayed in a browser
+A method of linking between documents
+A protocol that allowed for the retrieval of documents stored on network-attached servers
+
+8. During what time period was Gopher more popular than the Web?
+>>
+1990-1993
+
+9. What is the markup language invented by Tim Berners-Lee and Robert Cailliau to represent web documents.
+>>
+HTML
+
+10. What problems were the team trying to develop NCSA Mosaic trying to solve? (Choose all that apply)
+>>
+Creating a browser that ran on Unix, Windows, and Macintosh
+Creating a browser that would let people view documents stored on the web
+Creating a web browser that was easy to install
+
+11. Who did Paul Kunz describe the modern implementation of the internet as being a “win-win” solution for? (Choose all that apply)
+>>
+The Web is a win for companies because it helps them reaching their target audience more directly
+The Web is a win for everyday people as it allows them to do complex product comparisons effectively
+
+12. Which of the following is true? (Choose all that apply)
+>>
+Packet-switched networks allow short messages to move across the network even when a large file is being transferred across a link
+Packet-switched networks break long messages into short segments that are sent individually
+
+13. What did Steve Jobs contribute to the creation of the Internet?
+>>
+He was responsible for the company that created the NeXT machine – and on which much of the most earliest development of the Internet was done.
+
+14. Which of the following is not true about the CERN high-energy physics lab?
+>>
+They got a grant from the National Science Foundation to build the first Internet in 1985
+
+15.In what year can we clearly say the World Wide Web took off?
+>>
+1994
+
+16. What makes Switzerland an ideal location to house a multi-national collaborative research facility like CERN?
+>>
+Switzerland’s longstanding neutrality allows scientists from all over the world to travel there more easily than other nations.
+
+17. What kinds of atmospheres do we consistently see as providing the right support to allow fantastic innovation to happen? (Choose all that apply)
+>>
+Places that put whole communities of extraordinary experts in one location to work together on various projects.
+Organizations that support and encourage creativity in all forms – including music, art, and the pursuit of extensive side projects.

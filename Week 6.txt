@@ -1,0 +1,41 @@
+1. What part of data transfer does TCP solve, and what part does IP solve?
+>>
+The reliability of data transmissions, and the actual movement of the data
+    
+2. What is window size in regards packet transfer?
+>>
+The amount of data that can be sent before receiving an acknowledgement
+
+3.What was the problem that Van Jacobson experienced and worked to solve?
+>>
+Extremely slow transmission of data when two fast internal networks were connected via a slow network.
+
+4. The storage of unacknowledged data is whose responsibility?
+>>
+The transport layer of the sending computer
+5. How did Van Jacobson change TCP so that it would work properly?
+>>
+He changed the sending computer to start sending data slowly and speed up as the data was acknowledged
+
+6.What do we learn from the four layer TCP about about how to solve complex problems?
+>>
+Break things up into smaller pieces, and allow many different people and organizations to tackle each piece indvidually.
+
+7. If you listened closely to the Bob Metcalfe video, he mentioned that Ethernet was designed after the early ARPANET had been designed and knowing how ARPANET would work allowed him to greatly simplify the design of Ethernet. Which layer is most likely the layer that let him keep Ethernet simple? (Video)
+>>
+TCP – Because he knew that lost packets would be re-transmitted by a higher layer
+
+8.When we talk of the protocols that move data over the Internet, we talk of TCP/IP. Which of the following is FALSE about TCP/IP:
+>>
+IP makes use of TCP as its underlying transport mechanism
+
+9. In TCP, when does a sending system know it is safe to discard packets after it has sent them?
+>>
+After it has received an acknowledgement from the receiving system.
+
+10. If you wanted to register the domain dr-chuck.go.com – who would you contact?
+>>
+The owner of go.com
+11. Which of the following is a domain name?
+>>
+www.umich.edu
